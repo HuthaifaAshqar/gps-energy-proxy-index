@@ -65,7 +65,7 @@ The pipeline can be applied to any GPS dataset with timestamp, position, speed a
 ## Installation and usage
 
 ```bash
-git clone https://github.com/<your-account>/gps-energy-proxy-index.git
+git clone https://github.com/HuthaifaAshqar/gps-energy-proxy-index.git
 cd gps-energy-proxy-index
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
